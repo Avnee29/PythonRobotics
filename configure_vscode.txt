@@ -1,0 +1,15 @@
+Type autopep8 in the search bar.
+
+Click Install the version made by Microsoft.
+
+Type PyLint in the search bar.
+
+Click Install the version made by Microsoft.
+
+Click on “File” in the top-left corner.
+
+Select “Preferences”
+
+Click on “Settings”.
+
+In the search bar at the top of the Settings page, type “editor rulers” and click “Edit in settings.json”.
